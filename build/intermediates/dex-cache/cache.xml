@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\009d053075302e828f3c442ce2f7c8b0ed16c3e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d4efb96430faaa968471f17546421a68e656ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\3583614b0609be5f9a29448aa3a867e79b76b6c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c77586bc5434e3033b7da1bf5de66199ec2586f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\8b328e1e6ea2e01b553e2243e0a6a2a0eec0b13f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2fe751b2a25ebdf6a840eec400fbf96e54f06f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\009d053075302e828f3c442ce2f7c8b0ed16c3e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_6d4efb96430faaa968471f17546421a68e656ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\3583614b0609be5f9a29448aa3a867e79b76b6c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_c77586bc5434e3033b7da1bf5de66199ec2586f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d7a114cdedb61ed91fbefc9fdda3aaef127a2721\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\3bea0f23160a3ef0c84448c91b7b175575aa4895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_7588bfac09b7533b8f9bbb30e4f160cb975575c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\8f3c8820d1b2ec0a1747a7653ffea3187f3f58f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_168362b0c6c7c4a999dc49cc843e9061694a03fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\support-annotations-25.0.0_d7a114cdedb61ed91fbefc9fdda3aaef127a2721.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\3bea0f23160a3ef0c84448c91b7b175575aa4895\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7588bfac09b7533b8f9bbb30e4f160cb975575c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\939b75052796d3a93cd0159e7d2d28bb18d2e044\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_b5dc7202b504be96367ea6b622861773fad09212.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\45247280a3d6f824441481b6077b43d4dffa039f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d17a8d9108b621d2f54925de67b7899b200add6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\8b328e1e6ea2e01b553e2243e0a6a2a0eec0b13f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_f2fe751b2a25ebdf6a840eec400fbf96e54f06f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\45247280a3d6f824441481b6077b43d4dffa039f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_6d17a8d9108b621d2f54925de67b7899b200add6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\939b75052796d3a93cd0159e7d2d28bb18d2e044\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_533ac41bca88cfc50e8730c042630f10c80a9b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\939b75052796d3a93cd0159e7d2d28bb18d2e044\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b5dc7202b504be96367ea6b622861773fad09212\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\939b75052796d3a93cd0159e7d2d28bb18d2e044\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_533ac41bca88cfc50e8730c042630f10c80a9b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\45247280a3d6f824441481b6077b43d4dffa039f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_439d676f3de12743ebd057942b6cd7b9c86779e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\3bea0f23160a3ef0c84448c91b7b175575aa4895\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_cdb47d7f7fc7798b83d73afdfc4f54af01453512.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\45247280a3d6f824441481b6077b43d4dffa039f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_439d676f3de12743ebd057942b6cd7b9c86779e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\3bea0f23160a3ef0c84448c91b7b175575aa4895\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cdb47d7f7fc7798b83d73afdfc4f54af01453512\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\8f3c8820d1b2ec0a1747a7653ffea3187f3f58f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_168362b0c6c7c4a999dc49cc843e9061694a03fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\009d053075302e828f3c442ce2f7c8b0ed16c3e3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_1205fc6e3e7c7ab880c2360317430fa38f05b5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.0-beta3_14d7677d1528b7058e1292d54fbbd89200c4fd5f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2f1da6f3e6bbeed32718d715c052a0f82ff6ab3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\009d053075302e828f3c442ce2f7c8b0ed16c3e3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1205fc6e3e7c7ab880c2360317430fa38f05b5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta3_14d7677d1528b7058e1292d54fbbd89200c4fd5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\a7e01fe9e719d571ba69635ad9421b1c704debef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6aed279e5d915d5d2cbc2211924cb4cbbbd0707\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\a7e01fe9e719d571ba69635ad9421b1c704debef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_e6aed279e5d915d5d2cbc2211924cb4cbbbd0707.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\f066b6126d4fcba8035cd2293cb52868d344eab3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cf920efdb7aa69cb9c0bbefb5e0c86b38acf4367\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\f066b6126d4fcba8035cd2293cb52868d344eab3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_cf920efdb7aa69cb9c0bbefb5e0c86b38acf4367.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\3424f5da430387f1abc43d466350f7d6fadf384b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cec440921365f0f9b887bdb18ace61cd93feee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\f066b6126d4fcba8035cd2293cb52868d344eab3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_ae4a95f7180bb54c80cf1553655db4135f0474db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\.android\build-cache\f066b6126d4fcba8035cd2293cb52868d344eab3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae4a95f7180bb54c80cf1553655db4135f0474db\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\princ\.android\build-cache\3424f5da430387f1abc43d466350f7d6fadf384b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\pre-dexed\release\classes_8cec440921365f0f9b887bdb18ace61cd93feee6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80332f525d34a996777ec32e9c95d1ddb7d27f95">
+        <dex dex="C:\Users\princ\Dropbox\GitProgs\BluetoothArduinoCommunicator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b8e3b3175898b8f4d833e4a70aa3903db480ea69\classes.dex" />
+    </item>
+
+</items>
